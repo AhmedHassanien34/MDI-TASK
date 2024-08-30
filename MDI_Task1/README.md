@@ -49,8 +49,9 @@ To set up and run this project locally, follow these steps:
 3. You can run the test cases using Maven: Or run specific tests using your preferred IDE (e.g., IntelliJ IDEA, Eclipse).
 
 ## Project Structure
-src/test/java: Contains the test cases for API testing.
-pom.xml: Maven configuration file for managing dependencies and build settings.
+1- src/test/java: Contains the test cases for API testing.
+
+2- pom.xml: Maven configuration file for managing dependencies and build settings.
 
 
   
