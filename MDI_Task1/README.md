@@ -48,8 +48,8 @@ To set up and run this project locally, follow these steps:
     Ensure you have Maven installed and run the following command to install project dependencies: mvn clean install 
 3. You can run the test cases using Maven: Or run specific tests using your preferred IDE (e.g., IntelliJ IDEA, Eclipse).
 
-   **  Project Structure**
-   src/test/java: Contains the test cases for API testing.
+## Project Structure
+src/test/java: Contains the test cases for API testing.
 pom.xml: Maven configuration file for managing dependencies and build settings.
 
 
